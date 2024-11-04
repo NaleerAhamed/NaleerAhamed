@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **HND in Software Engineering**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nizamnaleer](https://github.com/Nizamnaleer)
+- 👨‍💻 All of my projects are available at [https://github.com/NaleerAhamed](https://github.com/NaleerAhamed)
 
 - 📫 How to reach me **Naleerahamed3@gmail.com**
 
