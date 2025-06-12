@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naleer Ahamed</h1>
-<h3 align="center">A passionate Front-End developer with UI/UX Knowledge from Srilanka</h3>
+<h3 align="center">A passionate Web Developer from Srilanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naleerahamed&label=Profile%20views&color=0e75b6&style=flat" alt="naleerahamed" /> </p>
 
