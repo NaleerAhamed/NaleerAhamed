@@ -1,32 +1,287 @@
-<h1 align="center">Hi 👋, I'm Naleer Ahamed</h1>
-<h3 align="center">A passionate Web Developer from Srilanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naleerahamed&label=Profile%20views&color=0e75b6&style=flat" alt="naleerahamed" /> </p>
+<!-- Modern GitHub Profile README -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naleerahamed" alt="naleerahamed" /></a> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:6366F1,100:06B6D4&height=220&section=header&text=Naleer%20Ahamed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20WordPress%20%7C%20Shopify&descAlignY=60&descSize=19" width="100%" alt="Naleer Ahamed" />
 
-- 🌱 I’m currently learning **HND in Software Engineering**
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Passionate+Web+Developer+from+Sri+Lanka;WordPress+%7C+Shopify+%7C+Frontend;Building+Modern+and+Responsive+Websites;Always+Learning+New+Technologies" alt="Typing animation" />
+  </a>
 
-- 👨‍💻 All of my projects are available at [https://github.com/NaleerAhamed](https://github.com/NaleerAhamed)
+  <br/>
 
-- 📫 How to reach me **Naleerahamed3@gmail.com**
+  <img src="https://komarev.com/ghpvc/?username=naleerahamed&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/naleer-ahamed-20974128b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naleer-ahamed-20974128b/" height="30" width="40" /></a>
-<a href="https://fb.com/naleer ahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naleer ahamed" height="30" width="40" /></a>
-<a href="https://instagram.com/_.naleer.ahamed._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.naleer.ahamed._" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/naleerahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naleerahamed" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/naleera94j3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="naleera94j3" height="30" width="40" /></a>
-</p>
+  <img src="https://img.shields.io/github/followers/naleerahamed?label=Followers&style=for-the-badge&color=06b6d4&labelColor=0f172a" alt="GitHub Followers" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naleerahamed&show_icons=true&locale=en&layout=compact" alt="naleerahamed" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naleerahamed&show_icons=true&locale=en" alt="naleerahamed" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naleerahamed&" alt="naleerahamed" /></p>
+Hi! I'm **Naleer Ahamed**, a passionate Web Developer from Sri Lanka 🇱🇰.
+
+I enjoy building modern, responsive, and user-friendly websites. I mainly work with **WordPress, Shopify, Elementor, HTML, CSS, and JavaScript**.
+
+I have experience in website development, eCommerce management, website administration, product uploads, and content management.
+
+- 💻 Web Developer with experience in WordPress and Shopify
+- 🎨 Building modern and mobile-friendly websites
+- 🛒 Working with WooCommerce and Shopify stores
+- ⚡ Creating custom layouts using Elementor Pro
+- 🌱 Studying HND in Software Engineering
+- 🚀 Interested in learning new tools and technologies
+- 🤝 Open to web development projects and collaborations
+- 📍 Based in Sri Lanka
+- 📧 Email: **Naleerahamed3@gmail.com**
+
+---
+
+## 🌐 My Portfolio
+
+<div align="center">
+
+### 🚀 Explore My Work
+
+Discover my web development projects, skills, experience, and the websites I have worked on.
+
+<br/>
+
+<a href="https://naleer-portfolio-lilac.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-6366F1?style=for-the-badge&logoColor=white" alt="Visit My Portfolio" />
+</a>
+
+<br/><br/>
+
+**🔗 Portfolio Website**
+
+https://naleer-portfolio-lilac.vercel.app/
+
+<br/>
+
+<a href="https://github.com/NaleerAhamed">
+  <img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects" />
+</a>
+
+</div>
+
+---
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+### 💻 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular&theme=dark" alt="Frontend Skills" />
+
+<br/>
+
+### ⚙️ Backend & Programming
+
+<img src="https://skillicons.dev/icons?i=php,python,cs,dotnet,nodejs&theme=dark" alt="Programming Skills" />
+
+<br/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Database Skills" />
+
+<br/>
+
+### 🛍️ CMS & eCommerce
+
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix" />
+<img src="https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace&logoColor=white" alt="Squarespace" />
+
+<br/>
+
+### 🔧 Development & Design Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,heroku,unity&theme=dark" alt="Development Tools" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+<img src="https://img.shields.io/badge/Cloudways-2C39BD?style=for-the-badge&logoColor=white" alt="Cloudways" />
+<img src="https://img.shields.io/badge/Google_Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Search Console" />
+
+</div>
+
+---
+
+## 🚀 What I Do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Website Development
+- WordPress website development
+- Custom Elementor designs
+- Responsive website development
+- Landing page development
+- Website redesign and updates
+- Figma to WordPress
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 eCommerce Development
+- Shopify store management
+- WooCommerce setup
+- Product uploads and updates
+- Product variation management
+- Theme customization
+- Store content management
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Website Administration
+- Website maintenance
+- Hosting and domain setup
+- Plugin installation and setup
+- Website speed optimization
+- Technical SEO improvements
+- Bug fixing
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Content & Design
+- Website content updates
+- Product image editing
+- Canva graphic design
+- Data entry and management
+- Basic SEO optimization
+- User-friendly page layouts
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Featured Work
+
+<div align="center">
+
+| Project | Work |
+|:---|:---|
+| [Chocohugs](https://chocohugs.co.uk/) | Shopify product uploads |
+| [House of Janaan](https://houseofjanaan.com/) | Product uploads and email campaigns |
+| [Arctic Edge](https://arcticedge.me/) | Shopify landing page development |
+| [NomNom UAE](https://nomnomuae.com/) | Product discount card setup |
+| [Supplement Factory](https://supplementfactory.lk/) | Product data entry and variation images |
+| [Supplement Warehouse](https://supplementwarehouse.lk/) | Product data entry and image updates |
+
+<br/>
+
+<a href="https://naleer-portfolio-lilac.vercel.app/">
+  <img src="https://img.shields.io/badge/View_More_Projects-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="View More Projects" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=naleerahamed&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naleerahamed&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Most Used Languages" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=naleerahamed&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=naleerahamed&bg_color=0d1117&color=38bdf8&line=6366f1&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/naleer-ahamed-20974128b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://www.instagram.com/_.naleer.ahamed._/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<a href="mailto:Naleerahamed3@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<a href="https://github.com/NaleerAhamed">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/naleerahamed/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/naleera94j3">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+</a>
+
+</div>
+
+---
+
+## 💬 Let's Work Together
+
+<div align="center">
+
+I'm always interested in new projects, creative ideas, and opportunities to work with others.
+
+If you need a modern website, WordPress development, Shopify support, or website management, feel free to contact me.
+
+<br/>
+
+<a href="mailto:Naleerahamed3@gmail.com">
+  <img src="https://img.shields.io/badge/📩_CONTACT_ME-6366F1?style=for-the-badge&logoColor=white" alt="Contact Me" />
+</a>
+
+<a href="https://naleer-portfolio-lilac.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_MY_PORTFOLIO-06B6D4?style=for-the-badge&logoColor=white" alt="My Portfolio" />
+</a>
+
+<br/><br/>
+
+### ⭐ Thanks for visiting my GitHub profile!
+
+**Let's build something amazing together!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:6366F1,100:06B6D4&height=120&section=footer" width="100%" alt="Footer" />
+
+</div>
